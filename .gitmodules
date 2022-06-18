@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "blindrecalc"]
+	path = blindrecalc
+	url = https://github.com/imbi-heidelberg/blindrecalc
+	shallow = true
+	registered = true
+[submodule "DescrTab2"]
+	path = DescrTab2
+	url = https://github.com/imbi-heidelberg/descrtab2
+	shallow = true
+	registered = true
