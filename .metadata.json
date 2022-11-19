@@ -1,5 +1,9 @@
 [
   {
+    "package": "blindrecalc",
+    "oncran": true
+  },
+  {
     "package": "DescrTab2",
     "oncran": true
   }
